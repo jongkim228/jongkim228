@@ -2,7 +2,6 @@
 
 📫 How to reach me: jonghyun.kim99@gmail.com
 
-😄 Pronouns: Kim
 
 <!--
 **jongkim228/jongkim228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
